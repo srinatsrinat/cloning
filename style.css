@@ -1,0 +1,154 @@
+.header{
+    position:fixed;
+    top:0;
+    height: 100px;
+    z-index: 1;
+    background-color: white;
+    width: 100%;
+}
+
+.logoButton{
+    border: 0px;
+    background-color: white;}
+
+.logo{
+    height: 40px;
+    width: 80px;
+    margin:20px;
+}
+
+.menuButton{
+    margin: 20px;
+    border: 0px;
+    background-color: white;
+}
+
+.inputText{
+    width: 600px;
+    position: relative;
+    left: 250px;
+    margin-right: 0%;
+
+}
+
+
+.voiceButton{
+
+    position: relative;
+    left: 110px;
+    border: 0px;
+    background-color: white;
+
+}
+
+.inputSearch{
+
+    position: relative;
+    left: 249px;
+    top:-1px;
+    margin-left: 0%;
+    height: 30px;
+    width: 60px;
+
+
+}
+
+
+.videoButton{
+
+    position: relative;
+    left: 400px;
+    border: 0px;
+    background-color: white;
+
+}
+
+.ytgridButton{
+
+    position: relative;
+    left: 425px;
+    border: 0px;
+    background-color: white;
+  
+
+}
+
+.ytnotifButton{
+
+    position: relative;
+    left: 450px;
+    border: 0px;
+    background-color: white;
+
+}
+
+  
+  .sidenav {
+    height: 100%;
+    width: 0%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    border-right: solid 1px black;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #868686;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .listArea{
+      position: relative;
+      top:100px;
+      width: 200%;
+      height:650px;
+      overflow-y: auto;
+      overflow-x: hidden;
+     
+    
+  }
+
+  .resArea{
+      position: relative;
+      left: 150px;
+  
+      
+  }
+
+.resCard{
+    position: relative;
+    height:180px;
+    width:320px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom : 20px;
+    border: 1px solid black;
+}
+
+.menuList{
+
+    margin: 15px;
+    font-size: 20  !important;
+}
+ 
